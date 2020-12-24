@@ -10,7 +10,7 @@ Solves sudoku given as an image using ***OpenCV Python*** and ***Python Tessarac
 
 #### Things I can improve
 <ul>
-  Considering a better way to preprocess the given image.
+  Considering a better way to preprocess the given image.<br>
   Implementing deep learning method to extract numbers.
  </ul>
  
