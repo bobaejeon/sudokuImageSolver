@@ -121,14 +121,7 @@ def find_number(cell):
 
             if '1' <= list(text)[0] <= '9':
                 num = int(list(text)[0])
-            else:
-                if list(text)[0] == 'i' or list(text)[0] == 'M':
-                    num = 3
-                elif list(text)[0] == 'W':
-                    num = 7
-                elif list(text)[0] == 'r':
-                    num = 8
-
+           
     return num
 
 
