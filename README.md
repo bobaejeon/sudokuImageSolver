@@ -15,4 +15,4 @@ Solves sudoku given as an image using ***OpenCV Python*** and ***Python Tessarac
  </ul>
  
  ### Result
- <img src=""/>
+ <img width="792" alt="sudokuSolver" src="https://user-images.githubusercontent.com/67196344/103080939-3bb8e880-461a-11eb-8d62-b1eb6e2b8571.PNG">
